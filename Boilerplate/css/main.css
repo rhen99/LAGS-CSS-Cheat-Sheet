@@ -1,0 +1,23 @@
+/* Change these to however you like. */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+/* Tablet Screens */
+@media (min-width: 768px) {
+}
+
+/* Small screen laptops */
+@media (min-width: 1024px) {
+}
+
+/* Desktop screens */
+@media (min-width: 1200px) {
+}
