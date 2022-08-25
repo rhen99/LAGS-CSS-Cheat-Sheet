@@ -1,0 +1,9 @@
+/* Basic Button: all pixel value, one class */
+.basic {
+  border: none;
+  cursor: pointer;
+  background-color: #333;
+  color: #fff;
+  font-size: 18px;
+  padding: 8px 20px;
+}
